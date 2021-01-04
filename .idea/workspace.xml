@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbc20adc-69bc-47d1-828d-4c0885066a17" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/sortAlgorithm/quickSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithm/quickSort.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortAlgorithm/shellSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithm/shellSort.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="d21bc216-70ff-471c-940c-72c717d04c87" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1m05Eaywwnv2Hgg6F79DHWivvSs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../123odm_backend" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbc20adc-69bc-47d1-828d-4c0885066a17" name="默认的" comment="" />
+      <created>1608617605433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608617605433</updated>
+      <workItem from="1608617606651" duration="543000" />
+      <workItem from="1608618186817" duration="195000" />
+      <workItem from="1608618396263" duration="5861000" />
+      <workItem from="1608712051863" duration="1351000" />
+      <workItem from="1608791800222" duration="2729000" />
+      <workItem from="1609741331753" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608792200058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608792200058" />
+    <state x="540" y="186" key="#服务器" timestamp="1608712431923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="186" key="#服务器/0.0.1920.1040@0.0.1920.1040" timestamp="1608712431923" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1609741379273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609741379273" />
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1608716764771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
+    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1608716764771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1608716764771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
+    <state width="1877" height="174" key="GridCell.Tab.1.bottom" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.1.center" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.1.left" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.1.right" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.2.bottom" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.2.center" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.2.left" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state width="1877" height="174" key="GridCell.Tab.2.right" timestamp="1608716764772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
+    <state x="244" y="196" key="SettingsEditor" timestamp="1608618374987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608618374987" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sortAlgorithm/shellSort.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sortAlgorithm/shellSort.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sortAlgorithm/MergeSort.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sortAlgorithm/MergeSort.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
