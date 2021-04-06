@@ -31,37 +31,53 @@
 class Solution {
 
     /**
-     * @param Integer[] $prices
-     * @return Integer
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return NULL
+     * 把数组当成环形的，依次替换掉后k位的数
      */
     function rotate(&$nums, $k) {
-        $len = count($nums);
+        $len =count($nums);
         if ($len<=1) return ;
-        $i=$j=$n=0;
-        $arr_k=array_fill(0, $k, 0);
-        $k=$k<$len?$k:$k%$len;
-        while ($i<$k) {
+        if (!$k%$len)return ;
+        $k = $k%$len;
+        $i=$j=0;
+        $arr_k = array_fill(0,$k,0);
+        while ($i<$k){
             $j=$i;
-            $n=$nums[$j];
-            while ($j<$len && !$arr_k[$j]) {
+            while ($j>=$k || !$arr_k[$j]){
+                if ($j<$k)$arr_k[$j]=1;
                 $pos=($j+$k)%$len;
-                if ($pos<$k) $arr_k[$pos]=1;
                 $temp=$nums[$pos];
-                $nums[$pos]=$n;
-                $n=$temp;
+                $nums[$pos]=$nums[$i];
+                $nums[$i]=$temp;
                 $j=$pos;
-                print_r($nums);echo "<br/>";
             }
             $i++;
-
         }
+    }
+
+    /**
+     * @param $nums
+     * @param $k
+     * 旋转全部，再以第k位（即下标为k-1）作分界线两边旋转
+     * 或者以第k位（即下标为k-1）作分界线两边旋转，再旋转整个数组
+     * todo 还差部分旋转 或者自己写个旋转函数
+     */
+    function rotate1(&$nums, $k) {
+        $len =count($nums);
+        if ($len<=1) return ;
+        if (!$k%$len)return ;
+        $k = $k%$len;
+        $nums=array_reverse($nums);
+
     }
 }
 
 $s=new Solution();
-$arr = [1,2,3,4,5,6,7];
-$s->rotate($arr,3);
-print_r($arr);echo "<br/>";
-$arr1 = [-1,-100,3,99];
-$s->rotate($arr12,2);
-print_r($arr1);echo "<br/>";
+$nums=[1,2,3,4,5,6,7];
+$s->rotate($nums,3);
+print_r($nums);echo "<br/>";
+$nums2=[-1,-100,3,99];
+$s->rotate($nums2,2);
+print_r($nums2);echo "<br/>";
