@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc20adc-69bc-47d1-828d-4c0885066a17" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/sortAlgorithm/quickSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithm/quickSort.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortAlgorithm/shellSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithm/shellSort.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +12,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="d21bc216-70ff-471c-940c-72c717d04c87" name="localhost" />
+      <server host="127.0.0.15" id="1b7e1f67-2b8e-4fc7-aa8a-6cb7530da356" name="127.0.0.15" />
     </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
@@ -27,13 +28,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../123odm_backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datacenter" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
-  <component name="RunManager">
-    <configuration name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost">
+  <component name="RunManager" selected="PHP 脚本.leetcode">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="localhost">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/54.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/isAnagram.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="localhost" start_url="http://localhost/leetcode/54.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Web 页面.localhost" />
+      <item itemvalue="PHP 脚本.leetcode" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,74 +73,69 @@
       <workItem from="1608712051863" duration="1351000" />
       <workItem from="1608791800222" duration="2729000" />
       <workItem from="1609741331753" duration="50000" />
+      <workItem from="1615872128194" duration="1520000" />
+      <workItem from="1617268438332" duration="507000" />
+      <workItem from="1617356265506" duration="1498000" />
+      <workItem from="1617678766255" duration="8775000" />
+      <workItem from="1617775989610" duration="609000" />
+      <workItem from="1617865554749" duration="2113000" />
+      <workItem from="1618219153404" duration="593000" />
+      <workItem from="1618550452386" duration="11421000" />
+      <workItem from="1618902741762" duration="4471000" />
+      <workItem from="1621218334177" duration="50000" />
+      <workItem from="1621218399139" duration="45000" />
+      <workItem from="1623142893606" duration="4426000" />
+      <workItem from="1623743508526" duration="75000" />
+      <workItem from="1626938763022" duration="3175000" />
+      <workItem from="1627265160284" duration="623000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="174" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608792200058">
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626939267929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608792200058" />
-    <state x="540" y="186" key="#服务器" timestamp="1608712431923">
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626939267929" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1627289043200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="186" key="#服务器/0.0.1920.1040@0.0.1920.1040" timestamp="1608712431923" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1609741379273">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627289043200" />
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1626947092767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609741379273" />
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1608716764772">
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1626947092767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1608716764771">
+    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1626947092767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
-    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1608716764771">
+    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1626947092767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
-    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1608716764771">
+    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1626947092595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764771" />
-    <state width="1877" height="174" key="GridCell.Tab.1.bottom" timestamp="1608716764772">
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
+    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1626947092595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.1.center" timestamp="1608716764772">
+    <state width="1877" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
+    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1626947092595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.1.left" timestamp="1608716764772">
+    <state width="1877" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1626947092595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.1.right" timestamp="1608716764772">
+    <state width="1877" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626939510524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.2.bottom" timestamp="1608716764772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="174" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.2.center" timestamp="1608716764772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="174" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.2.left" timestamp="1608716764772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="174" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state width="1877" height="174" key="GridCell.Tab.2.right" timestamp="1608716764772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="174" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608716764772" />
-    <state x="244" y="196" key="SettingsEditor" timestamp="1608618374987">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="244" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608618374987" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626939510524" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -140,6 +159,121 @@
           <url>file://$PROJECT_DIR$/sortAlgorithm/MergeSort.php</url>
           <line>11</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/54.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/54.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/54.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/54.php</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rotate.php</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rotate.php</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/80.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/80.php</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/153.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/moveZeroes.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/moveZeroes.php</url>
+          <line>95</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/1.php</url>
+          <line>46</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/1.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>61</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>69</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>99</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>103</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>118</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/isValidSudoku.php</url>
+          <line>122</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rotate2.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/28.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/28.php</url>
+          <line>50</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
