@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc20adc-69bc-47d1-828d-4c0885066a17" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/20.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datacenter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20.php" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunManager" selected="PHP 脚本.leetcode">
@@ -43,7 +62,7 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <configuration name="leetcode" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/isAnagram.php">
+    <configuration name="leetcode" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/20.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP 7.4" />
@@ -88,50 +107,66 @@
       <workItem from="1623743508526" duration="75000" />
       <workItem from="1626938763022" duration="3175000" />
       <workItem from="1627265160284" duration="623000" />
+      <workItem from="1629275940970" duration="5006000" />
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626939267929">
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629276339090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626939267929" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1627289043200">
+    <state x="414" y="0" width="1092" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629276339090" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1629276337701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627289043200" />
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1626947092767">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629276337701" />
+    <state width="1877" height="309" key="GridCell.Tab.0.bottom" timestamp="1629280995803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
-    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1626947092767">
+    <state width="1877" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995803" />
+    <state width="1877" height="309" key="GridCell.Tab.0.center" timestamp="1629280995803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
-    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1626947092767">
+    <state width="1877" height="309" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995803" />
+    <state width="1877" height="309" key="GridCell.Tab.0.left" timestamp="1629280995803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
-    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1626947092767">
+    <state width="1877" height="309" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995803" />
+    <state width="1877" height="309" key="GridCell.Tab.0.right" timestamp="1629280995803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092767" />
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1626947092595">
+    <state width="1877" height="309" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995803" />
+    <state width="1877" height="309" key="GridCell.Tab.1.bottom" timestamp="1629280995804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
-    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1626947092595">
+    <state width="1877" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995804" />
+    <state width="1877" height="309" key="GridCell.Tab.1.center" timestamp="1629280995804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
-    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1626947092595">
+    <state width="1877" height="309" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995804" />
+    <state width="1877" height="309" key="GridCell.Tab.1.left" timestamp="1629280995803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
-    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1626947092595">
+    <state width="1877" height="309" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995803" />
+    <state width="1877" height="309" key="GridCell.Tab.1.right" timestamp="1629280995804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626947092595" />
+    <state width="1877" height="309" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629280995804" />
+    <state x="1284" y="227" key="NewPhpClassDialog" timestamp="1629275993804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1284" y="227" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629275993804" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626939510524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -274,6 +309,26 @@
           <url>file://$PROJECT_DIR$/28.php</url>
           <line>50</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20.php</url>
+          <line>72</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
